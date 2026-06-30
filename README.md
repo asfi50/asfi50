@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:FA4A2F&height=220&section=header&text=&fontSize=0" width="100%" />
-
-<br/>
-
 <img src="https://mtas.fi/portfolio/Asfi_formal_no_bg.png" width="150" alt="Muammar Tazwar Asfi" />
 
 <br/><br/>
@@ -288,7 +284,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asfi50&label=Profile+Views&color=FA4A2F&style=flat-square" alt="Profile Views">
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA4A2F,50:1a1a2e,100:0D1117&height=120&section=footer" width="100%" />
