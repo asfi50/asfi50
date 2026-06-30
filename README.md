@@ -1,122 +1,241 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://mtas.fi/portfolio/Asfi_formal_no_bg.avif">
+    <source media="(prefers-color-scheme: light)" srcset="https://mtas.fi/portfolio/Asfi_formal_no_bg.avif">
+    <img width="220" src="https://mtas.fi/portfolio/Asfi_formal_no_bg.avif" alt="Muammar Tazwar Asfi" style="border-radius: 50%; border: 3px solid #FA4A2F; box-shadow: 0 0 40px rgba(250, 74, 47, 0.3);">
+  </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA4A2F,100:1a1a1a&height=200&section=header&text=Muammar%20Tazwar%20Asfi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <br/><br/>
 
-<a href="https://mtas.fi"><img src="https://img.shields.io/badge/Portfolio-mtas.fi-FA4A2F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mtasfi"><img src="https://img.shields.io/badge/LinkedIn-mtasfi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/mtASFI"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <!-- Animated typing effect via text + gif -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FA4A2F&center=true&vCenter=true&width=600&lines=Muammar+Tazwar+Asfi;Software+Engineer;Full-Stack+Developer;Open+Source+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Tagline -->
+  <table>
+    <tr>
+      <td align="center">
+        <em><strong>Building products that solve real problems — from SaaS platforms to mobile apps used by thousands.</strong></em>
+        <br/>
+        <sub>Full-Stack · Mobile · DevOps · Open Source</sub>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Social Links -->
+  <p>
+    <a href="https://mtas.fi" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-mtas.fi-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FA4A2F" alt="Portfolio"/>
+    </a>
+    <a href="mailto:Like.asfi@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-Like.asfi%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mtasfi" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%40mtasfi-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn"/>
+    </a>
+    <a href="https://codeforces.com/profile/mtASFI" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-mtASFI-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a1a" alt="Codeforces"/>
+    </a>
+    <a href="https://www.codechef.com/users/mtasfi" target="_blank">
+      <img src="https://img.shields.io/badge/CodeChef-mtasfi-%235B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a1a" alt="CodeChef"/>
+    </a>
+  </p>
+
+  <br/>
+</div>
+
+<!-- ─── Divider ─── -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FA4A2F&center=true&vCenter=true&width=600&lines=Building+SaaS+products+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Next.js+%C2%B7+TypeScript+%C2%B7+React+Native;Champion+%40+BUET+Hackathon+%26+NASA+Space+Apps;Shipping+products+used+by+thousands"/>
+## 👨‍💻 About Me
+
+<table>
+  <tr>
+    <td width="60%">
+      
+      🎓 BSc in CSE · Jagannath University (CGPA: 3.73/4.00)
+      
+      💼 Software Engineer @ SimpliSolve LLC (2024-2025)
+      
+      🚀 Founder & Lead Engineer — Building SaaS products
+      
+      🏆 Champion — BUET CSE Fest Hackathon 2024
+      
+      🌍 Global Nominee — NASA Space Apps Challenge 2024
+      
+      📍 Dhaka, Bangladesh
+      
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=asfi50&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FA4A2F&icon_color=FA4A2F&text_color=FFFFFF&count_private=true" width="100%" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<!-- Tech Stack Icons -->
+<div align="center">
+
+### 🌐 Web
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Directus-263238?style=for-the-badge&logo=directus&logoColor=white"/>
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-FF6A00?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coolify-1A1A1A?style=for-the-badge&logo=coolify&logoColor=white"/>
+</p>
 
 </div>
 
 <br/>
 
-## ⚡ About
+## 📌 Pinned Projects
 
-I build web & mobile products that solve real problems — across the full stack, from frontend to infrastructure. Currently running a small software house, building SaaS products and shipping client work.
+<div align="center">
 
-```yaml
-role:        Software Engineer & Full-Stack Developer
-based_in:    Bangladesh 🇧🇩
-focus:       Next.js · TypeScript · React Native · Cloud Infra
-experience:  2+ years industry · Senior SWE @ SimpliSolve LLC
-open_to:     Freelance contracts · Full-time (remote/hybrid)
-```
+| Project | Description | Tech | Links |
+|:-------:|:------------|:----:|:-----:|
+| <img src="https://mtas.fi/logo/accrely-fb-logo.png" width="20"/> **Accrely** | BAC-aligned digital accreditation system for Bangladeshi HEIs | Next.js, PostgreSQL, Redis, Docker | [🔗](https://accrely.com) |
+| <img src="https://mtas.fi/logo/deshievents.jpg" width="20"/> **DeshiEvents** | Event ticketing platform — €10K+ processed on Stripe | Next.js, PostgreSQL, Stripe, Redis | [🔗](https://deshievents.it) |
+| <img src="https://mtas.fi/logo/shopigen.jpg" width="20"/> **ShopiGen** | Retail shop management SaaS with e-commerce automation | Next.js, PostgreSQL, Redis, Docker | [🔗](https://shopigen.it) |
+| <img src="https://mtas.fi/logo/marriagechime.jpg" width="20"/> **MarriageChime** | Matrimony app — 10K+ downloads, App Store & Play Store | React Native, Expo, RevenueCat | [📱](https://apps.apple.com/us/app/marriagechime/id6747143663) [📱](https://play.google.com/store/apps/details?id=com.marriagechime.app) |
+| <img src="https://mtas.fi/logo/jnucsu.png" width="20"/> **JnUCSU** | Digital election & social platform — national press coverage | Next.js, React Native, PostgreSQL, n8n | [🔗](https://jnucsu.com) [📱](https://play.google.com/store/apps/details?id=com.jnucsu) |
+| <img src="https://mtas.fi/portfolio/Asfi_head.avif" width="20"/> **mtas.fi** | My personal portfolio & blog | Next.js, TypeScript, Tailwind CSS | [🔗](https://mtas.fi) |
 
-<br/>
-
-## 🚀 Things I've Built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Accrely](https://accrely.com)
-**Cofounder & Software Engineer**
-Digital accreditation system aligned with the Bangladesh Accreditation Council — piloted at Jagannath University, Green University & Asian University of Bangladesh.
-<br/><sub>`Next.js` `PostgreSQL` `Redis` `Directus` `Coolify`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [ShopiGen](https://shopigen.it)
-**Founder**
-Retail shop management SaaS with automated e-commerce, live in Italy.
-<br/><sub>`Next.js` `PostgreSQL` `Redis` `Cloudinary`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [DeshiEvents.it](https://deshievents.it)
-**Solo Developer**
-Ticket management platform for events — €10,000+ processed via Stripe.
-<br/><sub>`Next.js` `PostgreSQL` `Stripe` `Docker`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [JnUCSU](https://jnucsu.com)
-**Founder & Visionary**
-Open-source election campaign platform for Jagannath University. Cited in Wikipedia, covered by Prothom Alo.
-<br/><sub>`Next.js` `React Native` `Directus` `N8N`</sub>
-
-</td>
-</tr>
-</table>
-
-📱 **MarriageChime** — Senior SWE @ SimpliSolve · matrimony platform · 10K+ downloads, live on App Store & Play Store.
+</div>
 
 <br/>
 
 ## 🏆 Achievements
 
-| | |
-|---|---|
-| 🥇 | **Champion** — BUET CSE Fest Hackathon 2024 (AI/API Category) |
-| 🥇🌍 | **Champion + Global Nominee** — NASA Space Apps Challenge 2024 (Dhaka Division) |
-| 🏅 | **5th Place** — Code Samurai 2024 (national programming contest) |
-| 🥈 | **Runner-up** — IEEEXtreme 17, Bangladesh Region |
-| ⭐ | **Specialist** — Codeforces · **3★** — CodeChef |
-
-<br/>
-
-## 🛠️ Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,reactnative,postgres,redis,docker,aws,cloudflare,git,github&theme=dark" />
+| Badge | Achievement | Event |
+|:-----:|:-----------|:-----:|
+| 🥇 | **Champion** — AI/API Category | BUET CSE Fest Hackathon 2024 |
+| 🌍 | **Champion** — **Global Nominee** | NASA Space Apps Challenge 2024 |
+| 🏅 | **5th Place** Nationwide | Code Samurai 2024 |
+| 🥈 | **Runner-up** — Bangladesh Region | IEEEXtreme 17 |
+| 💚 | **Specialist** (Rating: 1400+) | Codeforces |
+| 🟠 | **★★★ 3 Star** (Rating: 1696) | CodeChef |
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asfi50&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FA4A2F&icon_color=FA4A2F" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asfi50&theme=radical&hide_border=true&background=0d1117&ring=FA4A2F&fire=FA4A2F" height="165"/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfi50&theme=dark&hide_border=true&background=0D1117&stroke=FA4A2F&ring=FA4A2F&fire=FA4A2F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FA4A2F&sideLabels=FFFFFF" width="49%" alt="GitHub Streak"/>
+  
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfi50&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FA4A2F" height="165"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfi50&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FA4A2F&text_color=FFFFFF" width="45%" alt="Top Languages"/>
+
+  <br/><br/>
+
+  <!-- Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=asfi50&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="80%" alt="GitHub Trophies"/>
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asfi50&bg_color=0D1117&color=FFFFFF&line=FA4A2F&point=FFFFFF&area=true&area_color=FA4A2F&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
 <br/>
 
-## 📬 Let's Talk
+## 📰 Press & Media Coverage
 
 <div align="center">
 
-Available for freelance work and full-time roles — full-stack, mobile, DevOps, or automation.
+  <a href="https://www.thedailystar.net/news/bangladesh/news/nasa-space-apps-challenge-2024-jnu-becomes-dhaka-division-champs-3720851" target="_blank">
+    <img src="https://img.shields.io/badge/The_Daily_Star-NASA_Space_Apps_Coverage-1a1a1a?style=for-the-badge&labelColor=FA4A2F" alt="Daily Star"/>
+  </a>
+  <a href="https://www.prothomalo.com/education/higher-education/w7iq3wiidf" target="_blank">
+    <img src="https://img.shields.io/badge/Prothom_Alo-JnUCSU_Coverage-1a1a1a?style=for-the-badge&labelColor=FA4A2F" alt="Prothom Alo"/>
+  </a>
+  <a href="https://www.newsbangla24.com/news/234714/Second-place-in-the-country-in-international-programming-competition" target="_blank">
+    <img src="https://img.shields.io/badge/NewsBangla24-IEEEXtreme_Coverage-1a1a1a?style=for-the-badge&labelColor=FA4A2F" alt="NewsBangla24"/>
+  </a>
 
-<a href="https://mtas.fi/contact"><img src="https://img.shields.io/badge/Get_In_Touch-mtas.fi-FA4A2F?style=for-the-badge"/></a>
-<a href="https://github.com/asfi50"><img src="https://img.shields.io/badge/GitHub-asfi50-181717?style=for-the-badge&logo=github"/></a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:FA4A2F&height=100&section=footer" width="100%"/>
+<br/>
+
+## ✨ Let's Connect!
+
+<div align="center">
+
+  <a href="https://mtas.fi" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-mtas.fi-%23FA4A2F?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEwIDEzYTIgMiAwIDEwIDQtMCAyIDIgMCAwIDAtNCAwIi8+PHBhdGggZD0iTTEwIDN2NGEyIDIgMCAwIDAtMiAySDQiLz48cGF0aCBkPSJNNCAxMXY4YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMlY1YTIgMiAwIDAgMC0yLTJoLTQiLz48L3N2Zz4=" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="mailto:Like.asfi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Like.asfi%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mtasfi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%40mtasfi-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/asfi50" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%40asfi50-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=asfi50&label=Profile%20Views&color=FA4A2F&style=flat-square" alt="Profile Views"/>
+
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow divider"/>
+
+  <br/>
+
+  <sub>⭐ From [asfi50](https://github.com/asfi50) — Crafted with ❤️ and lots of ☕</sub>
 
 </div>
