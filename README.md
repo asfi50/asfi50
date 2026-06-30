@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://mtas.fi/portfolio/Asfi_formal_no_bg.png" width="150" alt="Muammar Tazwar Asfi" />
-
-<br/><br/>
+<br/>
 
 # Muammar Tazwar Asfi
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=FA4A2F&center=true&vCenter=true&multiline=false&width=520&height=35&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;Building+products+that+solve+real+problems;SaaS+%C2%B7+Mobile+Apps+%C2%B7+Automation+Systems" alt="Typing SVG" />
-</a>
+**Software Engineer · Full-Stack Developer**
 
-<br/>
+Building products that solve real problems — SaaS platforms, mobile apps, automation systems.
 
-`📍 Dhaka, Bangladesh`
+`Dhaka, Bangladesh`
 
 <br/>
 
@@ -21,22 +17,18 @@
 <a href="https://linkedin.com/in/mtasfi"><img src="https://img.shields.io/badge/mtasfi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="https://github.com/asfi50"><img src="https://img.shields.io/badge/asfi50-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
-<br/><br/>
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<br/>
-
-## ⚡ Ventures & Projects
+## Ventures & Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <br/>
       <div align="center">
-        <img src="https://mtas.fi/logo/accrely-fb-logo.png" width="52" />
+        <img src="https://mtas.fi/logo/accrely-fb-logo.png" width="48" />
         <br/><br/>
         <strong>Accrely</strong>
         <br/>
@@ -58,7 +50,7 @@
     <td width="50%" valign="top">
       <br/>
       <div align="center">
-        <img src="https://www.google.com/s2/favicons?domain=shopigen.it&sz=128" width="52" />
+        <img src="https://www.google.com/s2/favicons?domain=shopigen.it&sz=128" width="48" />
         <br/><br/>
         <strong>ShopiGen</strong>
         <br/>
@@ -82,7 +74,7 @@
     <td width="50%" valign="top">
       <br/>
       <div align="center">
-        <img src="https://mtas.fi/logo/deshievents.jpg" width="52" style="border-radius: 10px;" />
+        <img src="https://mtas.fi/logo/deshievents.jpg" width="48" style="border-radius: 10px;" />
         <br/><br/>
         <strong>DeshiEvents.it</strong>
         <br/>
@@ -104,7 +96,7 @@
     <td width="50%" valign="top">
       <br/>
       <div align="center">
-        <img src="https://mtas.fi/logo/jnucsu.png" width="52" />
+        <img src="https://mtas.fi/logo/jnucsu.png" width="48" />
         <br/><br/>
         <strong>JnUCSU (জকসু)</strong>
         <br/>
@@ -130,7 +122,7 @@
     <td width="50%" valign="top">
       <br/>
       <div align="center">
-        <img src="https://mtas.fi/logo/marriagechime.jpg" width="52" style="border-radius: 10px;" />
+        <img src="https://mtas.fi/logo/marriagechime.jpg" width="48" style="border-radius: 10px;" />
         <br/><br/>
         <strong>MarriageChime</strong>
         <br/>
@@ -154,20 +146,16 @@
   </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🏆 Hackathons & Competitive Programming
+## Hackathons & Competitive Programming
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <br/>
       <div align="center">
-        <img src="https://mtas.fi/logo/BUET_LOGO.svg" width="50" />
+        <img src="https://mtas.fi/logo/BUET_LOGO.svg" width="48" />
         <br/><br/>
         <img src="https://img.shields.io/badge/🥇_Champion_(AI/API)-FFD700?style=flat-square&labelColor=FFD700&color=FFD700" />
         <br/>
@@ -182,7 +170,7 @@
     <td width="50%" valign="top">
       <br/>
       <div align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width="60" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width="56" />
         <br/><br/>
         <img src="https://img.shields.io/badge/🥇_Champion_&_Global_Nominee-FFD700?style=flat-square&labelColor=FFD700&color=FFD700" />
         <br/>
@@ -199,7 +187,7 @@
     <td width="50%" valign="top">
       <br/>
       <div align="center">
-        <img src="https://mtas.fi/logo/code-samurai.png" width="50" />
+        <img src="https://mtas.fi/logo/code-samurai.png" width="48" />
         <br/><br/>
         <img src="https://img.shields.io/badge/🏅_5th_Place_Nationwide-C0C0C0?style=flat-square&labelColor=C0C0C0&color=C0C0C0" />
         <br/>
@@ -213,7 +201,7 @@
     <td width="50%" valign="top">
       <br/>
       <div align="center">
-        <img src="https://mtas.fi/logo/IEEE_logo.svg.png" width="80" />
+        <img src="https://mtas.fi/logo/IEEE_logo.svg.png" width="75" />
         <br/><br/>
         <img src="https://img.shields.io/badge/🥈_Runner--up_(BD_Region)-C0C0C0?style=flat-square&labelColor=C0C0C0&color=C0C0C0" />
         <br/>
@@ -233,13 +221,9 @@
   <a href="https://codechef.com/users/mtasfi"><img src="https://img.shields.io/badge/CodeChef-3_Star-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
   <br/>
@@ -263,13 +247,9 @@
   <br/><br/>
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <br/>
@@ -278,8 +258,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asfi50&bg_color=0D1117&color=FA4A2F&line=FA4A2F&point=FFFFFF&area=true&area_color=FA4A2F&hide_border=true" width="98%" />
   <br/><br/>
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=asfi50&label=Profile+Views&color=FA4A2F&style=flat-square" alt="Profile Views">
